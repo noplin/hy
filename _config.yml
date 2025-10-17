@@ -3,12 +3,12 @@ markdown: kramdown
 highlighter: rouge
 
 # Permalinks
-permalink: /:title/
+permalink: /:title
 
 # Setup
 title: hy
 tagline: 'blog'
-description: 'boog'
+description: ''
 url: https://namadomainmu.com
 baseurl: ""
 
