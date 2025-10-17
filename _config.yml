@@ -9,8 +9,8 @@ permalink: /:title
 title: hy
 tagline: 'blog'
 description: ''
-url: https://namadomainmu.com
-baseurl: ""
+url: "" #domain kamu
+baseurl: "/hy"
 
 author:
   name: 'M Hy'
