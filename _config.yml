@@ -1,26 +1,24 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown: kramdown
+highlighter: rouge
 
 # Permalinks
-permalink:        /:title/
-relative_permalinks: false
+permalink: /:title/
 
 # Setup
-title:            hy
-tagline:          'blog'
-description:      'boog'
-url:              http://hyde.getpoole.com
-baseurl:          /
+title: hy
+tagline: 'blog'
+description: 'boog'
+url: https://namadomainmu.com
+baseurl: ""
 
 author:
-  name:           'M Hy'
-  url:            https://twitter.com/hy
+  name: 'M Hy'
+  url: https://twitter.com/hy
 
-paginate:         5
+paginate: 5
 
 # Custom vars
-version:          2.1.0
+version: 2.1.0
 
-github:
-  repo:           
+# (hapus bagian github kalau tidak dipakai)
