@@ -10,7 +10,7 @@ title: hy
 tagline: 'blog'
 description: ''
 url: https://namadomainmu.com
-baseurl: ""
+baseurl: "/hy"
 
 author:
   name: 'M Hy'
